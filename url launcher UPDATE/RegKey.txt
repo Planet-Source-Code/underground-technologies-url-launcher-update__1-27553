@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\lnkfile\shell\Launch URL\command]
+@="c:\\windows\\browsefrom.exe %1"
+
