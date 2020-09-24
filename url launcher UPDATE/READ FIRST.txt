@@ -1,0 +1,10 @@
+
+open the "RegKey.txt" and save it as "RegKey.reg" and 
+merge it into your registry.
+
+you MUST merge the reg file 
+before trying to run the project or it WILL NOT work.
+
+
+planet source code removed the reg file from the zip file so
+i had to add it as a .txt file.
